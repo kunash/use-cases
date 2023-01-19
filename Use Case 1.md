@@ -2,37 +2,37 @@
 
 ## 1. User opens Tinkercad page 341
 
-User
+\*Subject:\* User
 
 ## 2. User clicks "Sign up with email"
 
-User
+\*Subject:\* User
 
 System redirects to sign-in page
 
-## 3. Do somethin
+## 3. Do something
 
-User
+\*Subject:\* User
 
 ## 4. Identity displays sign-in form
 
-Tinkercad
+\*Subject:\* Tinkercad
 
 ## 5. User submits sign-in form's step 1
 
-Identity
+\*Subject:\* Identity
 
 Input data: Country, DateOfBirth
 
 ## 6. User types his username
 
-Identity
+\*Subject:\* Identity
 
 System checks the username availability
 
 ## 7. User submits sign-in form's step 2
 
-Identity
+\*Subject:\* Identity
 
 Input data: UserName
 Password
@@ -46,6 +46,6 @@ Send approval request email to parent
 
 ## 8. Identity redirects to the requesting app
 
-User
+\*Subject:\* User
 
 redirect is performed using ReturnUrl
