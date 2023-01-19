@@ -1,38 +1,38 @@
 # Use Case 1
 
-## 1. User opens Tinkercad page 341
+## 1. User opens Tinkercad page 34
 
-\*Subject:\* User
+**Subject:** User
 
 ## 2. User clicks "Sign up with email"
 
-\*Subject:\* User
+**Subject:** User
 
 System redirects to sign-in page
 
 ## 3. Do something
 
-\*Subject:\* User
+**Subject:** User
 
 ## 4. Identity displays sign-in form
 
-\*Subject:\* Tinkercad
+**Subject:** Tinkercad
 
 ## 5. User submits sign-in form's step 1
 
-\*Subject:\* Identity
+**Subject:** Identity
 
 Input data: Country, DateOfBirth
 
 ## 6. User types his username
 
-\*Subject:\* Identity
+**Subject:** Identity
 
 System checks the username availability
 
 ## 7. User submits sign-in form's step 2
 
-\*Subject:\* Identity
+**Subject:** Identity
 
 Input data: UserName
 Password
@@ -46,6 +46,6 @@ Send approval request email to parent
 
 ## 8. Identity redirects to the requesting app
 
-\*Subject:\* User
+**Subject:** User
 
 redirect is performed using ReturnUrl
