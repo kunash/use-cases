@@ -10,23 +10,27 @@ User
 
 System redirects to sign-in page
 
-## 3. Identity displays sign-in form
+## 3. Do somethin
+
+User
+
+## 4. Identity displays sign-in form
 
 Tinkercad
 
-## 4. User submits sign-in form's step 1
+## 5. User submits sign-in form's step 1
 
 Identity
 
 Input data: Country, DateOfBirth
 
-## 5. User types his username
+## 6. User types his username
 
 Identity
 
 System checks the username availability
 
-## 6. User submits sign-in form's step 2
+## 7. User submits sign-in form's step 2
 
 Identity
 
@@ -40,7 +44,7 @@ Create ChildAccountModerationInfo and ModeratorAuthorization records, Create Sen
 Accept Terms and Conditions
 Send approval request email to parent
 
-## 7. Identity redirects to the requesting app
+## 8. Identity redirects to the requesting app
 
 User
 
