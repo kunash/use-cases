@@ -1,36 +1,36 @@
 # Use Case 1
 
-## 1. User opens Tinkercad page 34
+## 1. User: Open Tinkercad page 34
 
 **Subject:** User
 
-## 2. User clicks "Sign up with email"
+## 2. User: Click "Sign up with email"
 
 **Subject:** User
 
 System redirects to sign-in page
 
-## 3. Do something
+## 3. User: Do something
 
 **Subject:** User
 
-## 4. Identity displays sign-in form
+## 4. Tinkercad: Identity displays sign-in form
 
 **Subject:** Tinkercad
 
-## 5. User submits sign-in form's step 1
+## 5. Identity: User submits sign-in form's step 1
 
 **Subject:** Identity
 
 Input data: Country, DateOfBirth
 
-## 6. User types his username
+## 6. Identity: User types his username
 
 **Subject:** Identity
 
 System checks the username availability
 
-## 7. User submits sign-in form's step 2
+## 7. Identity: User submits sign-in form's step 2
 
 **Subject:** Identity
 
@@ -44,7 +44,7 @@ Create ChildAccountModerationInfo and ModeratorAuthorization records, Create Sen
 Accept Terms and Conditions
 Send approval request email to parent
 
-## 8. Identity redirects to the requesting app
+## 8. User: Identity redirects to the requesting app
 
 **Subject:** User
 
