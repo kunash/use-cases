@@ -1,6 +1,6 @@
 # Use Case 1
 
-## 1. User: Open Tinkercad page 34
+## 1. User: Open Tinkercad page
 
 **Subject:** User
 
