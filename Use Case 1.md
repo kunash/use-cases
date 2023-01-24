@@ -4,9 +4,9 @@
 
 **Subject:** User
 
-## 2. User: Click "Sign up with email"
+## 2. Tinkercad: Click "Sign up with email"
 
-**Subject:** User
+**Subject:** Tinkercad
 
 System redirects to sign-in page
 
