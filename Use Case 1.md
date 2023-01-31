@@ -4,9 +4,9 @@
 
 **Subject:** User
 
-## 2. User: Click "Sign up with email"
+## 2. Tinkercad: Click "Sign up with email"
 
-**Subject:** User
+**Subject:** Tinkercad
 
 System redirects to sign-in page
 
@@ -14,23 +14,27 @@ System redirects to sign-in page
 
 **Subject:** User
 
-## 4. Tinkercad: Identity displays sign-in form
+## 4. Tinkercad: Some action
 
 **Subject:** Tinkercad
 
-## 5. Identity: User submits sign-in form's step 1
+## 5. Tinkercad: Identity displays sign-in form
+
+**Subject:** Tinkercad
+
+## 6. Identity: User submits sign-in form's step 1
 
 **Subject:** Identity
 
 Input data: Country, DateOfBirth
 
-## 6. Identity: User types his username
+## 7. Identity: User types his username
 
 **Subject:** Identity
 
 System checks the username availability
 
-## 7. Identity: User submits sign-in form's step 2
+## 8. Identity: User submits sign-in form's step 2
 
 **Subject:** Identity
 
@@ -44,7 +48,7 @@ Create ChildAccountModerationInfo and ModeratorAuthorization records, Create Sen
 Accept Terms and Conditions
 Send approval request email to parent
 
-## 8. User: Identity redirects to the requesting app
+## 9. User: Identity redirects to the requesting app
 
 **Subject:** User
 
